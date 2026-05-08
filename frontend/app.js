@@ -1,4 +1,3 @@
-const API_URL = "http://localhost:5000";
 
 async function buscarLivros() {
     const termo = document.getElementById("buscaInput").value;
